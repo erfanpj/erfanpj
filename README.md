@@ -2,7 +2,7 @@
 
 I work on applied machine learning and full-stack tools. I'm especially interested in how brain-signal models perform on people they haven't seen before.
 
-**[Open the EEG results viewer](https://erfanpj.github.io/brain-signals-lab/viewer/)** · [Brain Signals Lab code](https://github.com/erfanpj/brain-signals-lab)
+**[Portfolio index](https://erfanpj.github.io/portfolio/)** · **[Open the EEG results viewer](https://erfanpj.github.io/brain-signals-lab/viewer/)** · [Brain Signals Lab code](https://github.com/erfanpj/brain-signals-lab)
 
 ## Brain Signals Lab
 
